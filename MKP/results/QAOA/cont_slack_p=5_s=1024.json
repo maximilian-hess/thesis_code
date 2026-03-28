@@ -1,0 +1,2422 @@
+{
+    "0": {
+        "0": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 387.2309107897255,
+            "feasibility": 0.9287109375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                8.805773417193748
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "1": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 121.6582580637091,
+            "feasibility": 0.9296875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.597161720732277
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "2": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 239.03884573533452,
+            "feasibility": 0.8037109375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.423966898801456
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "3": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 227.94964584850214,
+            "feasibility": 0.9697265625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.275658645404239
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "4": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 111.96047772278214,
+            "feasibility": 0.8671875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.8462203678070006
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "5": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 226.9885737213267,
+            "feasibility": 0.927734375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.295722986344369
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "6": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 224.33320921454248,
+            "feasibility": 0.9892578125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.7078354583756035
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "7": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 110.7424449487936,
+            "feasibility": 0.9599609375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.5512331416540994
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "8": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 221.68680616014746,
+            "feasibility": 0.83984375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.2690287613170317
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "9": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 194.25551017573412,
+            "feasibility": 0.953125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.627776744901634
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "10": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 49.23067531103329,
+            "feasibility": 0.9912109375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.367985346011426
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "11": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 148.33192456582614,
+            "feasibility": 0.9912109375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.441025424720599
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "12": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 120.46378721592538,
+            "feasibility": 0.8876953125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.366797649958786
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "13": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 200.02487233027347,
+            "feasibility": 0.9521484375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.5176861023118215
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "14": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 228.15885808100222,
+            "feasibility": 0.9951171875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.807473675766746
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "15": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 202.84937881763761,
+            "feasibility": 0.828125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.235439447773425
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "16": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 179.27386640229844,
+            "feasibility": 0.9912109375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.8172431072702215
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "17": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 223.27686685903288,
+            "feasibility": 0.970703125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.8028247644201982
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "18": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 232.16284126169597,
+            "feasibility": 0.9677734375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                7.308658222274156
+            ],
+            "opt_90_percentage": 1.0
+        },
+        "19": {
+            "qaoa_value": -19.0,
+            "optimal_value": 19,
+            "qaoa_bitstring": "10",
+            "qaoa_energy": 33.02605814882888,
+            "feasibility": 0.9892578125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.6064322644195603
+            ],
+            "opt_90_percentage": 1.0
+        }
+    },
+    "1": {
+        "0": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 21.055038138770815,
+            "feasibility": 0.6123046875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.13648876712172042
+            ],
+            "opt_90_percentage": 0.703125
+        },
+        "1": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 57.9980921035656,
+            "feasibility": 0.63671875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.6300189572210444
+            ],
+            "opt_90_percentage": 0.669921875
+        },
+        "2": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 47.230805141580376,
+            "feasibility": 0.6943359375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.1576908856599033
+            ],
+            "opt_90_percentage": 0.7060546875
+        },
+        "3": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 35.04170759328582,
+            "feasibility": 0.5341796875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.4295057127442058
+            ],
+            "opt_90_percentage": 0.7041015625
+        },
+        "4": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 64.25340162921378,
+            "feasibility": 0.697265625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.193493544093153
+            ],
+            "opt_90_percentage": 0.7431640625
+        },
+        "5": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 31.392457169557517,
+            "feasibility": 0.7041015625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.28976595527140614
+            ],
+            "opt_90_percentage": 0.73828125
+        },
+        "6": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 59.37174117373008,
+            "feasibility": 0.541015625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.863607671926742
+            ],
+            "opt_90_percentage": 0.63671875
+        },
+        "7": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 44.83421319642127,
+            "feasibility": 0.564453125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.728778310764875
+            ],
+            "opt_90_percentage": 0.6982421875
+        },
+        "8": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 51.13211071151296,
+            "feasibility": 0.7548828125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.9978007496251062
+            ],
+            "opt_90_percentage": 0.8662109375
+        },
+        "9": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 38.93321179059372,
+            "feasibility": 0.724609375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.582665289341561
+            ],
+            "opt_90_percentage": 0.8154296875
+        },
+        "10": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 29.305127361312945,
+            "feasibility": 0.4228515625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.157873925568827
+            ],
+            "opt_90_percentage": 0.59375
+        },
+        "11": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 66.31073524817953,
+            "feasibility": 0.60546875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.280397521747112
+            ],
+            "opt_90_percentage": 0.7216796875
+        },
+        "12": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 31.794124015960094,
+            "feasibility": 0.5693359375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.1065263834168366
+            ],
+            "opt_90_percentage": 0.751953125
+        },
+        "13": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 16.489454762701726,
+            "feasibility": 0.4736328125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.20872213457345093
+            ],
+            "opt_90_percentage": 0.515625
+        },
+        "14": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 54.352043620351616,
+            "feasibility": 0.7705078125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.314216782663034
+            ],
+            "opt_90_percentage": 0.7890625
+        },
+        "15": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 29.779612564955443,
+            "feasibility": 0.6494140625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.7637059005144683
+            ],
+            "opt_90_percentage": 0.744140625
+        },
+        "16": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 25.683639771383916,
+            "feasibility": 0.5234375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                -0.19470547975801988
+            ],
+            "opt_90_percentage": 0.619140625
+        },
+        "17": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 35.4041835352517,
+            "feasibility": 0.734375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.5766962553786027
+            ],
+            "opt_90_percentage": 0.8173828125
+        },
+        "18": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 23.20187022717831,
+            "feasibility": 0.48046875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.5759864759083428
+            ],
+            "opt_90_percentage": 0.6005859375
+        },
+        "19": {
+            "qaoa_value": -4.0,
+            "optimal_value": 4,
+            "qaoa_bitstring": "1000",
+            "qaoa_energy": 17.22898577982994,
+            "feasibility": 0.76953125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.6105600572846068
+            ],
+            "opt_90_percentage": 0.7978515625
+        }
+    },
+    "2": {
+        "0": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 206.75305830380492,
+            "feasibility": 0.0849609375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.449982223108385
+            ],
+            "opt_90_percentage": 0.0849609375
+        },
+        "1": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 283.48473156885746,
+            "feasibility": 0.2060546875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.7046605655297884
+            ],
+            "opt_90_percentage": 0.2294921875
+        },
+        "2": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 250.70988992055223,
+            "feasibility": 0.27734375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.52771337535955
+            ],
+            "opt_90_percentage": 0.3466796875
+        },
+        "3": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 189.19623233064107,
+            "feasibility": 0.095703125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.10813505442285759
+            ],
+            "opt_90_percentage": 0.1533203125
+        },
+        "4": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 238.06315902184244,
+            "feasibility": 0.306640625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.233930235648673
+            ],
+            "opt_90_percentage": 0.40625
+        },
+        "5": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 319.2015103543465,
+            "feasibility": 0.150390625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.3823028617649675
+            ],
+            "opt_90_percentage": 0.162109375
+        },
+        "6": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 271.3566451887478,
+            "feasibility": 0.3515625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.8482831931677761
+            ],
+            "opt_90_percentage": 0.376953125
+        },
+        "7": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 301.1115867925813,
+            "feasibility": 0.23046875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.122041582141258
+            ],
+            "opt_90_percentage": 0.3125
+        },
+        "8": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 344.5480886848656,
+            "feasibility": 0.1787109375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.6904187648868243
+            ],
+            "opt_90_percentage": 0.224609375
+        },
+        "9": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 325.9398379945253,
+            "feasibility": 0.1083984375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.8355529108189454
+            ],
+            "opt_90_percentage": 0.2060546875
+        },
+        "10": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 324.50537228670527,
+            "feasibility": 0.138671875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.1490163767203647
+            ],
+            "opt_90_percentage": 0.2099609375
+        },
+        "11": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 272.95143481755605,
+            "feasibility": 0.1328125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.1746909252924302
+            ],
+            "opt_90_percentage": 0.1708984375
+        },
+        "12": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 308.34350515578495,
+            "feasibility": 0.2578125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.3289385250354293
+            ],
+            "opt_90_percentage": 0.28515625
+        },
+        "13": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 313.01418203332906,
+            "feasibility": 0.185546875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.7152328832629409
+            ],
+            "opt_90_percentage": 0.2412109375
+        },
+        "14": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 251.04678102688297,
+            "feasibility": 0.21484375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.7852598450841228
+            ],
+            "opt_90_percentage": 0.2607421875
+        },
+        "15": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 312.6475196148264,
+            "feasibility": 0.078125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.6996365951314039
+            ],
+            "opt_90_percentage": 0.1005859375
+        },
+        "16": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 82.6239954938484,
+            "feasibility": 0.3564453125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                -1.289304687281822
+            ],
+            "opt_90_percentage": 0.376953125
+        },
+        "17": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 102.11371482984175,
+            "feasibility": 0.326171875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                -0.5067103327473088
+            ],
+            "opt_90_percentage": 0.375
+        },
+        "18": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 163.98103866817965,
+            "feasibility": 0.0830078125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.33625470390218504
+            ],
+            "opt_90_percentage": 0.1396484375
+        },
+        "19": {
+            "qaoa_value": -5.0,
+            "optimal_value": 5,
+            "qaoa_bitstring": "001000",
+            "qaoa_energy": 106.41353796521915,
+            "feasibility": 0.17578125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                -1.4244182834139862
+            ],
+            "opt_90_percentage": 0.244140625
+        }
+    },
+    "3": {
+        "0": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 1223.2690830777865,
+            "feasibility": 0.705078125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.264455070623674
+            ],
+            "opt_90_percentage": 0.705078125
+        },
+        "1": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 646.2631513527318,
+            "feasibility": 0.5517578125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.094838112557804
+            ],
+            "opt_90_percentage": 0.5517578125
+        },
+        "2": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 962.1255703098693,
+            "feasibility": 0.4072265625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.22786401602994832
+            ],
+            "opt_90_percentage": 0.4072265625
+        },
+        "3": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 643.5404632906038,
+            "feasibility": 0.6826171875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.0080765712706432
+            ],
+            "opt_90_percentage": 0.6826171875
+        },
+        "4": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 1279.8794135790681,
+            "feasibility": 0.6513671875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.8138841744545866
+            ],
+            "opt_90_percentage": 0.6513671875
+        },
+        "5": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 1183.1766415783195,
+            "feasibility": 0.5888671875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.564136134693822
+            ],
+            "opt_90_percentage": 0.5888671875
+        },
+        "6": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 2105.310928723032,
+            "feasibility": 0.52734375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.160704891212285
+            ],
+            "opt_90_percentage": 0.52734375
+        },
+        "7": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 1371.4876273794603,
+            "feasibility": 0.671875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.5421248072722165
+            ],
+            "opt_90_percentage": 0.671875
+        },
+        "8": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 933.9101275051019,
+            "feasibility": 0.537109375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.709503038725928
+            ],
+            "opt_90_percentage": 0.537109375
+        },
+        "9": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 804.4468800153904,
+            "feasibility": 0.7578125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.4369868823339695
+            ],
+            "opt_90_percentage": 0.7578125
+        },
+        "10": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 773.2888812976523,
+            "feasibility": 0.796875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.0748226485505061
+            ],
+            "opt_90_percentage": 0.796875
+        },
+        "11": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 739.5351384153843,
+            "feasibility": 0.755859375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.2702350051360143
+            ],
+            "opt_90_percentage": 0.755859375
+        },
+        "12": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 504.5607334231418,
+            "feasibility": 0.611328125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.5498375126309789
+            ],
+            "opt_90_percentage": 0.611328125
+        },
+        "13": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 985.5040737042048,
+            "feasibility": 0.7255859375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.7255928854859146
+            ],
+            "opt_90_percentage": 0.7255859375
+        },
+        "14": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 2455.0072392856737,
+            "feasibility": 0.662109375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                7.570906301535975
+            ],
+            "opt_90_percentage": 0.662109375
+        },
+        "15": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 1078.5887231233623,
+            "feasibility": 0.5908203125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.9100320648741667
+            ],
+            "opt_90_percentage": 0.5908203125
+        },
+        "16": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 954.2657109387425,
+            "feasibility": 0.7900390625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.1548329915829476
+            ],
+            "opt_90_percentage": 0.7900390625
+        },
+        "17": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 1099.3558314196139,
+            "feasibility": 0.4404296875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.6967306859139633
+            ],
+            "opt_90_percentage": 0.4404296875
+        },
+        "18": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 636.6925210656476,
+            "feasibility": 0.5595703125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.38715416535732877
+            ],
+            "opt_90_percentage": 0.5595703125
+        },
+        "19": {
+            "qaoa_value": -36.0,
+            "optimal_value": 36,
+            "qaoa_bitstring": "1010",
+            "qaoa_energy": 935.056337400426,
+            "feasibility": 0.6796875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.8641355624263154
+            ],
+            "opt_90_percentage": 0.6796875
+        }
+    },
+    "4": {
+        "0": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 705.2830204782465,
+            "feasibility": 0.4697265625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.044676554933850844
+            ],
+            "opt_90_percentage": 0.474609375
+        },
+        "1": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10001",
+            "qaoa_energy": 2659.2437980897375,
+            "feasibility": 0.5634765625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.8927149496633815
+            ],
+            "opt_90_percentage": 0.6015625
+        },
+        "2": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10001",
+            "qaoa_energy": 3173.1519785310197,
+            "feasibility": 0.5537109375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                7.037827894403328
+            ],
+            "opt_90_percentage": 0.6103515625
+        },
+        "3": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 1920.919047537526,
+            "feasibility": 0.580078125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.167621812111294
+            ],
+            "opt_90_percentage": 0.607421875
+        },
+        "4": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 742.155635678026,
+            "feasibility": 0.373046875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.9030379314311425
+            ],
+            "opt_90_percentage": 0.4931640625
+        },
+        "5": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 755.0004420609152,
+            "feasibility": 0.53125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.4522190064154454
+            ],
+            "opt_90_percentage": 0.5966796875
+        },
+        "6": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 1696.0626461762317,
+            "feasibility": 0.5146484375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.387642263860974
+            ],
+            "opt_90_percentage": 0.5498046875
+        },
+        "7": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 1020.9478770531041,
+            "feasibility": 0.490234375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.309223730971348
+            ],
+            "opt_90_percentage": 0.51953125
+        },
+        "8": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 1212.375918828617,
+            "feasibility": 0.4384765625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.4660955921722283
+            ],
+            "opt_90_percentage": 0.4931640625
+        },
+        "9": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 3320.2498229227454,
+            "feasibility": 0.5048828125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                7.346564741988687
+            ],
+            "opt_90_percentage": 0.5048828125
+        },
+        "10": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 2834.4784958090636,
+            "feasibility": 0.4189453125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.120576053068195
+            ],
+            "opt_90_percentage": 0.421875
+        },
+        "11": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 731.058515988301,
+            "feasibility": 0.490234375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.010622672476395145
+            ],
+            "opt_90_percentage": 0.4931640625
+        },
+        "12": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 1523.003551234567,
+            "feasibility": 0.4140625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.1209228884759392
+            ],
+            "opt_90_percentage": 0.4716796875
+        },
+        "13": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 1115.9546389207003,
+            "feasibility": 0.3828125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.8676533602065681
+            ],
+            "opt_90_percentage": 0.41015625
+        },
+        "14": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 2230.343810014994,
+            "feasibility": 0.3447265625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.280458199995692
+            ],
+            "opt_90_percentage": 0.3564453125
+        },
+        "15": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 2081.463143136932,
+            "feasibility": 0.4912109375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.226047243753381
+            ],
+            "opt_90_percentage": 0.5439453125
+        },
+        "16": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 1723.6932755526302,
+            "feasibility": 0.4482421875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.531784666219401
+            ],
+            "opt_90_percentage": 0.4638671875
+        },
+        "17": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 1203.509254463721,
+            "feasibility": 0.2880859375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.7036049202995622
+            ],
+            "opt_90_percentage": 0.34765625
+        },
+        "18": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 2070.070586562586,
+            "feasibility": 0.484375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.048727141581367
+            ],
+            "opt_90_percentage": 0.5322265625
+        },
+        "19": {
+            "qaoa_value": -32.0,
+            "optimal_value": 32,
+            "qaoa_bitstring": "10010",
+            "qaoa_energy": 731.4932065506791,
+            "feasibility": 0.3173828125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.1901610007913455
+            ],
+            "opt_90_percentage": 0.3369140625
+        }
+    },
+    "5": {
+        "0": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 1271.8520796981966,
+            "feasibility": 0.796875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.7846137540383475
+            ],
+            "opt_90_percentage": 0.8115234375
+        },
+        "1": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 1218.6803042877502,
+            "feasibility": 0.6533203125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.386189055286398
+            ],
+            "opt_90_percentage": 0.7548828125
+        },
+        "2": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 575.3958632852152,
+            "feasibility": 0.708984375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.08813757000293
+            ],
+            "opt_90_percentage": 0.73828125
+        },
+        "3": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 331.7958266748534,
+            "feasibility": 0.607421875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.33974403684568166
+            ],
+            "opt_90_percentage": 0.62890625
+        },
+        "4": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 764.1586348884567,
+            "feasibility": 0.7041015625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.170699013894427
+            ],
+            "opt_90_percentage": 0.7421875
+        },
+        "5": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 796.411208431389,
+            "feasibility": 0.7841796875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.598516735624007
+            ],
+            "opt_90_percentage": 0.794921875
+        },
+        "6": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 991.7705657004375,
+            "feasibility": 0.8193359375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                7.348356815056332
+            ],
+            "opt_90_percentage": 0.84765625
+        },
+        "7": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 907.1971277636223,
+            "feasibility": 0.6708984375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.570644906880148
+            ],
+            "opt_90_percentage": 0.7646484375
+        },
+        "8": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 597.2722172778099,
+            "feasibility": 0.8330078125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.557978479130204
+            ],
+            "opt_90_percentage": 0.8515625
+        },
+        "9": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 920.8728993910233,
+            "feasibility": 0.921875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.741565287882389
+            ],
+            "opt_90_percentage": 0.923828125
+        },
+        "10": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 500.29150747858415,
+            "feasibility": 0.8955078125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.6358452243749033
+            ],
+            "opt_90_percentage": 0.9091796875
+        },
+        "11": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 397.2774337573919,
+            "feasibility": 0.7041015625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.0613428589709777
+            ],
+            "opt_90_percentage": 0.779296875
+        },
+        "12": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 806.5172536249115,
+            "feasibility": 0.73828125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.119589329893028
+            ],
+            "opt_90_percentage": 0.7822265625
+        },
+        "13": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 224.6812293262047,
+            "feasibility": 0.7353515625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.3138598128521072
+            ],
+            "opt_90_percentage": 0.736328125
+        },
+        "14": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 1119.011666041029,
+            "feasibility": 0.73828125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.963577572584922
+            ],
+            "opt_90_percentage": 0.7392578125
+        },
+        "15": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 266.0958201957854,
+            "feasibility": 0.7568359375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.4848908276584884
+            ],
+            "opt_90_percentage": 0.7685546875
+        },
+        "16": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 435.74575120452306,
+            "feasibility": 0.6220703125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.6288580743929768
+            ],
+            "opt_90_percentage": 0.623046875
+        },
+        "17": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 986.7271921361736,
+            "feasibility": 0.7099609375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.462722627666218
+            ],
+            "opt_90_percentage": 0.771484375
+        },
+        "18": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 1050.4443876556752,
+            "feasibility": 0.8291015625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.940610045791912
+            ],
+            "opt_90_percentage": 0.849609375
+        },
+        "19": {
+            "qaoa_value": -55.0,
+            "optimal_value": 55,
+            "qaoa_bitstring": "10011",
+            "qaoa_energy": 793.9336752138414,
+            "feasibility": 0.666015625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.792496296701888
+            ],
+            "opt_90_percentage": 0.7041015625
+        }
+    },
+    "6": {
+        "0": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 4608.1913872452715,
+            "feasibility": 0.373046875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.105842472624714
+            ],
+            "opt_90_percentage": 0.3876953125
+        },
+        "1": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 7509.005334344531,
+            "feasibility": 0.4140625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                9.629818350858374
+            ],
+            "opt_90_percentage": 0.42578125
+        },
+        "2": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 3174.4721409188537,
+            "feasibility": 0.3798828125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.1016735461078735
+            ],
+            "opt_90_percentage": 0.3818359375
+        },
+        "3": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 1933.5638524023605,
+            "feasibility": 0.3525390625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.4692385130004051
+            ],
+            "opt_90_percentage": 0.3583984375
+        },
+        "4": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 2808.6804658445267,
+            "feasibility": 0.3896484375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.8040351921115176
+            ],
+            "opt_90_percentage": 0.4013671875
+        },
+        "5": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 3640.113578695192,
+            "feasibility": 0.453125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.533388461631279
+            ],
+            "opt_90_percentage": 0.484375
+        },
+        "6": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 4107.097191445038,
+            "feasibility": 0.4375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.316315277303002
+            ],
+            "opt_90_percentage": 0.4814453125
+        },
+        "7": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 3887.2256682461375,
+            "feasibility": 0.2802734375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.318449734709991
+            ],
+            "opt_90_percentage": 0.28515625
+        },
+        "8": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 6427.489013090909,
+            "feasibility": 0.373046875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                9.003513799631984
+            ],
+            "opt_90_percentage": 0.4130859375
+        },
+        "9": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 4104.273929717856,
+            "feasibility": 0.4169921875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.597849307769101
+            ],
+            "opt_90_percentage": 0.4189453125
+        },
+        "10": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 3952.6587927890287,
+            "feasibility": 0.357421875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.960192851939194
+            ],
+            "opt_90_percentage": 0.3681640625
+        },
+        "11": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "010011",
+            "qaoa_energy": 2003.9889024428755,
+            "feasibility": 0.369140625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.3736488913635454
+            ],
+            "opt_90_percentage": 0.3701171875
+        },
+        "12": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 4850.061420926947,
+            "feasibility": 0.3759765625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                7.24664584480591
+            ],
+            "opt_90_percentage": 0.376953125
+        },
+        "13": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 2125.7217585939957,
+            "feasibility": 0.3564453125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.8719406452984677
+            ],
+            "opt_90_percentage": 0.361328125
+        },
+        "14": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 6015.75190890795,
+            "feasibility": 0.2734375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                7.858352348148541
+            ],
+            "opt_90_percentage": 0.2802734375
+        },
+        "15": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 6394.2851198635235,
+            "feasibility": 0.3486328125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                8.616764751375754
+            ],
+            "opt_90_percentage": 0.3740234375
+        },
+        "16": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 1702.3005716889795,
+            "feasibility": 0.3466796875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                -0.015465916033176576
+            ],
+            "opt_90_percentage": 0.3603515625
+        },
+        "17": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 6171.888296918277,
+            "feasibility": 0.375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                8.16308340585657
+            ],
+            "opt_90_percentage": 0.404296875
+        },
+        "18": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 6203.856390840542,
+            "feasibility": 0.369140625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                8.738808565061504
+            ],
+            "opt_90_percentage": 0.427734375
+        },
+        "19": {
+            "qaoa_value": -50.0,
+            "optimal_value": 50,
+            "qaoa_bitstring": "011001",
+            "qaoa_energy": 4452.631843830578,
+            "feasibility": 0.40625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.103259974522589
+            ],
+            "opt_90_percentage": 0.4287109375
+        }
+    },
+    "7": {
+        "0": {
+            "qaoa_value": -35.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000110",
+            "qaoa_energy": 4434.203935235059,
+            "feasibility": 0.2958984375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.484630240435822
+            ],
+            "opt_90_percentage": 0.3349609375
+        },
+        "1": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 2450.582660571468,
+            "feasibility": 0.2607421875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.0324393870821167
+            ],
+            "opt_90_percentage": 0.3134765625
+        },
+        "2": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 3840.673479060978,
+            "feasibility": 0.3740234375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.575888218201185
+            ],
+            "opt_90_percentage": 0.4453125
+        },
+        "3": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 1702.8323731844725,
+            "feasibility": 0.34765625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.8589643082646345
+            ],
+            "opt_90_percentage": 0.38671875
+        },
+        "4": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 3879.9356260364593,
+            "feasibility": 0.23046875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.2165263167624145
+            ],
+            "opt_90_percentage": 0.2724609375
+        },
+        "5": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 5567.379717444364,
+            "feasibility": 0.201171875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                7.588604157705661
+            ],
+            "opt_90_percentage": 0.23046875
+        },
+        "6": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 1528.9899398608186,
+            "feasibility": 0.294921875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.7285622615085696
+            ],
+            "opt_90_percentage": 0.3095703125
+        },
+        "7": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 3482.381605115624,
+            "feasibility": 0.41015625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.267513968442544
+            ],
+            "opt_90_percentage": 0.4873046875
+        },
+        "8": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 1340.3422333949827,
+            "feasibility": 0.2939453125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                -0.05561312729889971
+            ],
+            "opt_90_percentage": 0.2958984375
+        },
+        "9": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 5919.053774639892,
+            "feasibility": 0.259765625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                8.024681384404794
+            ],
+            "opt_90_percentage": 0.333984375
+        },
+        "10": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 4951.87597444497,
+            "feasibility": 0.3505859375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                7.89631882809348
+            ],
+            "opt_90_percentage": 0.4462890625
+        },
+        "11": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 2700.809962837124,
+            "feasibility": 0.2392578125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.016144053134641
+            ],
+            "opt_90_percentage": 0.3525390625
+        },
+        "12": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 2136.5654205609517,
+            "feasibility": 0.3115234375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.264387359179567
+            ],
+            "opt_90_percentage": 0.357421875
+        },
+        "13": {
+            "qaoa_value": -35.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000110",
+            "qaoa_energy": 2934.0253033389085,
+            "feasibility": 0.3486328125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.34629519624031
+            ],
+            "opt_90_percentage": 0.490234375
+        },
+        "14": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 5602.540154475617,
+            "feasibility": 0.2861328125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.972185493526485
+            ],
+            "opt_90_percentage": 0.3203125
+        },
+        "15": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 1640.6094353855963,
+            "feasibility": 0.361328125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.7988442080843629
+            ],
+            "opt_90_percentage": 0.369140625
+        },
+        "16": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 1425.5583719916608,
+            "feasibility": 0.31640625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.33981009522339484
+            ],
+            "opt_90_percentage": 0.3955078125
+        },
+        "17": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 946.0200959850105,
+            "feasibility": 0.37109375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.17448696215886428
+            ],
+            "opt_90_percentage": 0.4794921875
+        },
+        "18": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 3293.0111202632697,
+            "feasibility": 0.2119140625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.21132257473491
+            ],
+            "opt_90_percentage": 0.23828125
+        },
+        "19": {
+            "qaoa_value": -51.0,
+            "optimal_value": 51,
+            "qaoa_bitstring": "000111",
+            "qaoa_energy": 2755.1049400949983,
+            "feasibility": 0.2373046875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.900896168179485
+            ],
+            "opt_90_percentage": 0.318359375
+        }
+    },
+    "8": {
+        "0": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 5011.608343389253,
+            "feasibility": 0.3037109375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                7.148673359590151
+            ],
+            "opt_90_percentage": 0.3193359375
+        },
+        "1": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 2249.120355067565,
+            "feasibility": 0.220703125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.7860966167688415
+            ],
+            "opt_90_percentage": 0.2548828125
+        },
+        "2": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 1714.1310311929667,
+            "feasibility": 0.248046875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.6459614429914715
+            ],
+            "opt_90_percentage": 0.2529296875
+        },
+        "3": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 2655.2318652908743,
+            "feasibility": 0.3193359375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.4383111507724156
+            ],
+            "opt_90_percentage": 0.337890625
+        },
+        "4": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 2716.304738976135,
+            "feasibility": 0.236328125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.8029000518832223
+            ],
+            "opt_90_percentage": 0.2509765625
+        },
+        "5": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 4683.06840209661,
+            "feasibility": 0.25390625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                7.171615500750088
+            ],
+            "opt_90_percentage": 0.2705078125
+        },
+        "6": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00100111",
+            "qaoa_energy": 3838.439534786601,
+            "feasibility": 0.2685546875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.4785961719704375
+            ],
+            "opt_90_percentage": 0.28515625
+        },
+        "7": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 913.4629535736225,
+            "feasibility": 0.255859375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                -1.0955063043208655
+            ],
+            "opt_90_percentage": 0.26953125
+        },
+        "8": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00100111",
+            "qaoa_energy": 3286.0778111676455,
+            "feasibility": 0.2666015625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.715045669368439
+            ],
+            "opt_90_percentage": 0.296875
+        },
+        "9": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 2001.8592181558133,
+            "feasibility": 0.3564453125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.9582210325819713
+            ],
+            "opt_90_percentage": 0.388671875
+        },
+        "10": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 3058.863032117019,
+            "feasibility": 0.3017578125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.53102444550893
+            ],
+            "opt_90_percentage": 0.3388671875
+        },
+        "11": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 3216.6819541138657,
+            "feasibility": 0.2783203125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.456427435925627
+            ],
+            "opt_90_percentage": 0.2958984375
+        },
+        "12": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 2936.4065168691077,
+            "feasibility": 0.28515625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.213056668904942
+            ],
+            "opt_90_percentage": 0.3017578125
+        },
+        "13": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00100111",
+            "qaoa_energy": 1462.9348629769147,
+            "feasibility": 0.318359375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.9202710930922815
+            ],
+            "opt_90_percentage": 0.34765625
+        },
+        "14": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 2427.323341747991,
+            "feasibility": 0.2880859375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.8106443862390007
+            ],
+            "opt_90_percentage": 0.3193359375
+        },
+        "15": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 4421.170047013344,
+            "feasibility": 0.2890625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.54606009285047
+            ],
+            "opt_90_percentage": 0.3095703125
+        },
+        "16": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 1449.1542778560265,
+            "feasibility": 0.3251953125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.6346948413360503
+            ],
+            "opt_90_percentage": 0.3671875
+        },
+        "17": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 3052.648732622616,
+            "feasibility": 0.34375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.389468017972003
+            ],
+            "opt_90_percentage": 0.361328125
+        },
+        "18": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 4340.211653177566,
+            "feasibility": 0.29296875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.926457586614043
+            ],
+            "opt_90_percentage": 0.34375
+        },
+        "19": {
+            "qaoa_value": -68.0,
+            "optimal_value": 68,
+            "qaoa_bitstring": "00101110",
+            "qaoa_energy": 2339.9343200968856,
+            "feasibility": 0.283203125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.8343636434537696
+            ],
+            "opt_90_percentage": 0.3251953125
+        }
+    },
+    "9": {
+        "0": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 2451.2173681320305,
+            "feasibility": 0.4248046875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.533767934074026
+            ],
+            "opt_90_percentage": 0.427734375
+        },
+        "1": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 1928.2285977912802,
+            "feasibility": 0.3984375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.438979003648701
+            ],
+            "opt_90_percentage": 0.3994140625
+        },
+        "2": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 1211.3997992650627,
+            "feasibility": 0.58984375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.9616826228650783
+            ],
+            "opt_90_percentage": 0.595703125
+        },
+        "3": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 2032.0283658785838,
+            "feasibility": 0.4462890625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.715327104589105
+            ],
+            "opt_90_percentage": 0.462890625
+        },
+        "4": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 2753.909849529316,
+            "feasibility": 0.4638671875,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.42258991060214
+            ],
+            "opt_90_percentage": 0.4716796875
+        },
+        "5": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 1501.0838394029677,
+            "feasibility": 0.470703125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                2.1616740803526087
+            ],
+            "opt_90_percentage": 0.470703125
+        },
+        "6": {
+            "qaoa_value": -71.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "10010011",
+            "qaoa_energy": 968.5936010489437,
+            "feasibility": 0.3876953125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.23039146150476575
+            ],
+            "opt_90_percentage": 0.388671875
+        },
+        "7": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 1306.6146743015904,
+            "feasibility": 0.5166015625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.8805105632223866
+            ],
+            "opt_90_percentage": 0.5185546875
+        },
+        "8": {
+            "qaoa_value": -71.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "10010011",
+            "qaoa_energy": 3723.932450016218,
+            "feasibility": 0.26953125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.872686853560698
+            ],
+            "opt_90_percentage": 0.26953125
+        },
+        "9": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 935.2700943777621,
+            "feasibility": 0.396484375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.0782059787624332
+            ],
+            "opt_90_percentage": 0.3974609375
+        },
+        "10": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 2567.2641081336606,
+            "feasibility": 0.3759765625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                4.888415176516821
+            ],
+            "opt_90_percentage": 0.37890625
+        },
+        "11": {
+            "qaoa_value": -71.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "10010011",
+            "qaoa_energy": 1028.8708645318147,
+            "feasibility": 0.5361328125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                3.3555102818207967
+            ],
+            "opt_90_percentage": 0.537109375
+        },
+        "12": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 4453.978472326449,
+            "feasibility": 0.4130859375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                7.50160510068779
+            ],
+            "opt_90_percentage": 0.4140625
+        },
+        "13": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 842.3735778421382,
+            "feasibility": 0.45703125,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                0.6871858711290292
+            ],
+            "opt_90_percentage": 0.4609375
+        },
+        "14": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 1355.187297808657,
+            "feasibility": 0.3984375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                1.9656417179531909
+            ],
+            "opt_90_percentage": 0.3994140625
+        },
+        "15": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 2557.3577111480336,
+            "feasibility": 0.4677734375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                5.160573168500867
+            ],
+            "opt_90_percentage": 0.46875
+        },
+        "16": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 3512.508927139574,
+            "feasibility": 0.4541015625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                6.988900250376745
+            ],
+            "opt_90_percentage": 0.4541015625
+        },
+        "17": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 4298.511084669904,
+            "feasibility": 0.4306640625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                7.104173114301368
+            ],
+            "opt_90_percentage": 0.4345703125
+        },
+        "18": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 4515.58294923787,
+            "feasibility": 0.359375,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                7.320728377183974
+            ],
+            "opt_90_percentage": 0.3603515625
+        },
+        "19": {
+            "qaoa_value": -72.0,
+            "optimal_value": 72,
+            "qaoa_bitstring": "01010011",
+            "qaoa_energy": 838.4120747317359,
+            "feasibility": 0.4775390625,
+            "optimality_percentage": 0.0,
+            "s_values": [
+                -0.39552396452865474
+            ],
+            "opt_90_percentage": 0.482421875
+        }
+    }
+}
