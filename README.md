@@ -28,3 +28,5 @@ The results which have been generated using the code in the notebook can be foun
 
 We provide a small notebook to plot success probabilities of Grover's algorithm in different settings.
 The notebook can be found at `Grover_probabilities/grover_probs.ipynb`.
+We also provide a notebook which carries out the fitting of a degree $2$ polynomial to translate between number of Amplitude Amplification iterations and classical samples taken as described in Section 5.2.1.
+The notebook can be found at `Grover_probabilities/approximate_benchmarking.ipynb`.
